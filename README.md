@@ -1,7 +1,5 @@
 # Whisper - AI-Powered Audio Transcription 🎙️🔍
 
-![Whisper Logo](https://github.com/openai/whisper/raw/main/docs/images/whisper_logo_dark_background.png)
-
 Whisper is an AI-powered audio transcription tool developed by OpenAI. It utilizes state-of-the-art technology to transcribe spoken words from audio files accurately. With the ability to process various languages and accents, Whisper offers a powerful solution for converting spoken content into text.
 
 ## Installation
